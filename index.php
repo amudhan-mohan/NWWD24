@@ -29,9 +29,8 @@
 </div>
 
 
-<h1 class="mt-3">Welcome to the National Workshop Web Designing'24</h1>
+<h1 class="mt-3 text-center">Welcome to the National Workshop Web Designing'24</h1>
 <div class="text-center">
-  <div class="mt-5"><h4><b>Dr. AMBEDKAR CHAIR<br/>&<br/>DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING</b></h4></div>
   <img src="./assets/images/NWWD.png" alt="" width="210px">
   <div class="border-bottom"><h4>Two-Days National Workshop with Hands-on Training on</h4><br/><h2><b>"WEB DESIGNING"</b></h2></div>
   <div class="mt-5">
